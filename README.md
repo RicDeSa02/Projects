@@ -1,6 +1,8 @@
 # Projects
 University projects
 
+See reports and more content at [Projects](https://RicDeSa02.github.io/Projects/).
+
 <!-- <video src="https://RicDeSa02.github.io/Projects/.mp4" autoplay loop muted playsinline></video> -->
 
 <!-- <iframe src="https://RicDeSa02.github.io/Projects/.pdf" width="100%" height="600px"></iframe> -->
