@@ -21,7 +21,7 @@ LLMs and visual robotic navigation in a [Webots](https://cyberbotics.com/) simul
 ### Cloud Computing
 Large-scale deployment of an image-generation diffusion model using [AWS Lambda](https://aws.amazon.com/lambda/), [AWS S3](https://aws.amazon.com/s3/), [AWS ECR](https://aws.amazon.com/ecr/), [AWS EC2](https://aws.amazon.com/ec2/), [AWS CloudWatch](https://aws.amazon.com/cloudwatch/), [AWS API Gateway](https://aws.amazon.com/api-gateway/), [Docker](https://www.docker.com/), [Locus](https://locust.io/).
 <video src="https://RicDeSa02.github.io/Projects/CloudComputingPresentation.mp4" autoplay loop muted playsinline></video>
-<iframe src="https://RicDeSa02.github.io/Projects/ImgGenAWSLambda.pdf" width="100%" height="600px"></iframe>
+[View PDF](https://RicDeSa02.github.io/Projects/ImgGenAWSLambda.pdf)
 
 ## Verification Guided RL
 ### Formal Methods for AI-based System Engineering
