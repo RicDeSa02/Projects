@@ -1,13 +1,14 @@
-# Projects
-University projects
+# University projects
 
-See reports and more content at [Projects](https://RicDeSa02.github.io/Projects/).
+University projects carried out during my Bachelor's Degree in Applied Computer Science and Artificial Intelligence and Master's Degree in Computer Science - curricula in Artificial Intelligence and Data Science - at [Sapienza University of Rome](https://www.uniroma1.it/en/pagina-strutturale/home).
+
+### **See reports and more content at [Projects](https://RicDeSa02.github.io/Projects/).**
 
 <!-- <video src="https://RicDeSa02.github.io/Projects/.mp4" autoplay loop muted playsinline></video> -->
 
 <!-- <iframe src="https://RicDeSa02.github.io/Projects/.pdf" width="100%" height="600px"></iframe> -->
 
-## Imitational Learning via Diffusion-based Behavioral Cloning
+<!-- ## Imitational Learning via Diffusion-based Behavioral Cloning
 ### Reinforcement Learning
 Expert imitation learning for Reinforcement Learning agents using denoising diffusion in [Gymnasium](https://gymnasium.farama.org/) environments.
 <video src="https://RicDeSa02.github.io/Projects/DiffusionBehavioralCloning.mp4" autoplay loop muted playsinline></video>
@@ -34,4 +35,4 @@ Multimodal vehicle driving dashboard developed in a [Webots](https://cyberbotics
 
 ## Quantum Machine Learning
 ### Topics in Physics
-Seminar on QML seminar based on the [Quantum Diffusion Model](https://arxiv.org/pdf/2311.15444) paper by Giacu et al. 
+Seminar on QML seminar based on the [Quantum Diffusion Model](https://arxiv.org/pdf/2311.15444) paper by Giacu et al.  -->
